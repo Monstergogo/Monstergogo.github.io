@@ -55,4 +55,3 @@ plugins:
 #   - vendor/ruby/
 domain: monstergogo.github.io
 url: https://monstergogo.github.io
-baseurl: /docs/
